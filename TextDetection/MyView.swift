@@ -83,6 +83,8 @@ class MyView: NSView {
             
             path.stroke()
             
+            // NSLog("text.subFeatures is \(text.subFeatures)")
+            
         }
         
     }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D2C57911E3A24C50069064D /* text2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2C57901E3A24C50069064D /* text2.png */; };
 		7DFA0F8B1E3A142C001B8463 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFA0F8A1E3A142C001B8463 /* AppDelegate.swift */; };
 		7DFA0F8D1E3A142C001B8463 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFA0F8C1E3A142C001B8463 /* ViewController.swift */; };
 		7DFA0F8F1E3A142C001B8463 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DFA0F8E1E3A142C001B8463 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D2C57901E3A24C50069064D /* text2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text2.png; sourceTree = "<group>"; };
 		7DFA0F871E3A142C001B8463 /* TextDetection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextDetection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DFA0F8A1E3A142C001B8463 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DFA0F8C1E3A142C001B8463 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				7DFA0F931E3A142C001B8463 /* Info.plist */,
 				7DFA0F9F1E3A1A47001B8463 /* text.jpg */,
 				7DFA0F9D1E3A1951001B8463 /* text1.png */,
+				7D2C57901E3A24C50069064D /* text2.png */,
 			);
 			path = TextDetection;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DFA0FA01E3A1A47001B8463 /* text.jpg in Resources */,
+				7D2C57911E3A24C50069064D /* text2.png in Resources */,
 				7DFA0F8F1E3A142C001B8463 /* Assets.xcassets in Resources */,
 				7DFA0F9E1E3A1951001B8463 /* text1.png in Resources */,
 				7DFA0F921E3A142C001B8463 /* Main.storyboard in Resources */,
@@ -298,6 +302,7 @@
 				7DFA0F981E3A142C001B8463 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
