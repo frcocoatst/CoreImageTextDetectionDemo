@@ -4,5 +4,5 @@ Text detection demo
 
 - 
 
-![TextDectect Image](https://github.com/frcocoatst/CoreImageTextDetectDemo/blob/master/text.png)
+![TextDectect Image](https://github.com/frcocoatst/CoreImageTextDetectionDemo/blob/master/text.png)
 
